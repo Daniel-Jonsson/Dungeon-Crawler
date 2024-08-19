@@ -1,0 +1,125 @@
+{
+  "Axe": [
+    {
+      "name": "Hatchet",
+      "wield": "One Handed Melee",
+      "damage": "3",
+      "speed": "5",
+      "restriction": "Warrior"
+    },
+    {
+      "name": "Battle Axe",
+      "wield": "Two Handed Melee",
+      "damage": "7",
+      "speed": "2",
+      "restriction": "Warrior"
+    }
+  ],
+  "Bow": [
+    {
+      "name": "Short Bow",
+      "wield": "Two Handed Ranged",
+      "damage": "6",
+      "speed": "6",
+      "restriction": "Ranger"
+    },
+    {
+      "name": "Long Bow",
+      "wield": "Two Handed Ranged",
+      "damage": "9",
+      "speed": "3",
+      "restriction": "Ranger"
+    }
+  ],
+  "Crossbow": [
+    {
+      "name": "Light Crossbow",
+      "wield": "Two Handed Ranged",
+      "damage": "8",
+      "speed": "4",
+      "restriction": "Ranger"
+    },
+    {
+      "name": "Heavy Crossbow",
+      "wield": "Two Handed Ranged",
+      "damage": "11",
+      "speed": "2",
+      "restriction": "Ranger"
+    }
+  ],
+  "Orb": [
+    {
+      "name": "Orb",
+      "wield": "One Handed Ranged",
+      "damage": "5",
+      "speed": "3",
+      "restriction": "Cleric"
+    }
+  ],
+  "Shield": [
+    {
+      "name": "Buckler",
+      "wield": "One Handed Melee",
+      "damage": "3",
+      "speed": "6",
+      "restriction": "Warrior"
+    },
+    {
+      "name": "Medium Shield",
+      "wield": "One Handed Melee",
+      "damage": "5",
+      "speed": "4",
+      "restriction": "Warrior"
+    },
+    {
+      "name": "Large Shield",
+      "wield": "One Handed Melee",
+      "damage": "6",
+      "speed": "5",
+      "restriction": "Warrior"
+    }
+  ],
+  "Staff": [
+    {
+      "name": "Staff",
+      "wield": "Two Handed Melee",
+      "damage": "2",
+      "speed": "6",
+      "restriction": "Wizard"
+    }
+  ],
+  "Sword": [
+    {
+      "name": "Broad Sword",
+      "wield": "One Handed Melee",
+      "damage": "4",
+      "speed": "4",
+      "restriction": "Warrior"
+    },
+    {
+      "name": "Great Sword",
+      "wield": "Two Handed Melee",
+      "damage": "6",
+      "speed": "2",
+      "restriction": "Warrior"
+    }
+  ],
+  "Tome": [
+    {
+      "name": "Tome",
+      "wield": "Two Handed Ranged",
+      "damage": "7",
+      "speed": "5",
+      "restriction": "Cleric"
+    }
+  ],
+  "Wand": [
+    {
+      "name": "Wand",
+      "wield": "One Handed Ranged",
+      "damage": "4",
+      "speed": "5",
+      "restriction": "Wizard"
+    }
+  ]
+}
